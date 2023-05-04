@@ -4,4 +4,4 @@
 
 2-) [Domain to IP](https://github.com/saricayemre/python_examples/blob/main/domaintoip/domaintoip.py)
 
-3-) [Şifre Üretici]([link](https://github.com/saricayemre/python_examples/blob/main/rastgele_sifre_uret/sifre_uret.py))
+3-) [Şifre Üretici]((https://github.com/saricayemre/python_examples/blob/main/rastgele_sifre_uret/sifre_uret.py))
