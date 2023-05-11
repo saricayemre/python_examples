@@ -1,7 +1,9 @@
 # Python ile ilgili örnekler
 
-• [Dosya Uzantısı Değiştirme](https://github.com/saricayemre/python_examples/blob/main/dosya%20uzant%C4%B1s%C4%B1%20de%C4%9Fi%C5%9Ftirme/filenameconvert.py)
+• [Dosya Uzantısı Değiştirme](https://github.com/saricayemre/python_examples/blob/main/codes/filenameconvert.py)
 
-• [Domain to IP](https://github.com/saricayemre/python_examples/blob/main/domaintoip/domaintoip.py)
+• [Domain to IP](https://github.com/saricayemre/python_examples/blob/main/codes/domaintoip.py)
 
-• [Şifre Üretici](https://github.com/saricayemre/python_examples/blob/main/rastgele_sifre_uret/sifre_uret.py)
+• [Şifre Üretici](https://github.com/saricayemre/python_examples/blob/main/codes/sifre_uret.py)
+
+• [Faktöriyel Hesaplama(recursive)](https://github.com/saricayemre/python_examples/blob/main/codes/faktoriyel.py)
